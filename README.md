@@ -17,10 +17,10 @@ Análisis de comportamiento de clientes para el año 2024en la empresa ConnectaT
 * Segmentación: Agrupación de usuarios según su plan y patrones de consumo.
 * Generación de Insights: Traducción de hallazgos técnicos a recomendaciones de negocio.
 ## Como ejecutar el Notebook
-* Puedes dar click directamente en el archivo adjunto para visualizarlo sin realizar modificaciones
-* Puedes Haz clic en el botón "Open in Colab".
-* Sube los archivos .csv a la sesión de Colab cuando el código lo solicite.
-* Ejecuta las celdas en orden (Runtime > Run all).
+1. Puedes dar click directamente en el archivo adjunto para visualizarlo sin realizar modificaciones
+2. Abrir un nuevo notebook en Colab, seleccionar la opcion GitHub y seguir los pasos".
+2.1 Sube los archivos .csv a la sesión de Colab cuando el código lo solicite.
+2.2 Ejecuta las celdas en orden (Runtime > Run all).
 ## Guia de Reproduccion
 * Para obtener los mismos resultados presentados en el análisis se debe:
 * 1.	Utiliza los datasets originales proporcionados en la carpeta /data (o la raíz).
